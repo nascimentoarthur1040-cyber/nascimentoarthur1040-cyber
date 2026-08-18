@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arthur Nascimento
+# 👋 Oi Sou o Arthur Nascimento
 
 ### **Full Stack JavaScript Developer & Tech Management Professor**
 
@@ -8,28 +8,30 @@ Olá! Desenvolvo aplicações web robustas e leciono programação, com foco tot
 
 ## 🎓 Sobre Mim
 
-- **Formação:** Análise e Desenvolvimento de Sistemas (ADS)
 - **Especialidade:** JavaScript / TypeScript
-- **Atuação:** Desenvolvimento de Software & Educação Tecnológica
+- **Atuação:** Desenvolvimento de Software
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Frontend & Backend**
+
 <p align="left">
-  <img src="https://skillicons.dev" alt="Frontend e Backend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express" alt="Frontend e Backend" />
 </p>
 
 ### **Banco de Dados & ORMs**
+
 <p align="left">
-  <img src="https://skillicons.dev" alt="Databases e Prisma" />
-  <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" style="vertical-align: middle; margin-left: 8px;" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma" alt="Databases e Prisma" />
+  <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" />
 </p>
 
 ### **Outras Linguagens**
+
 <p align="left">
-  <img src="https://skillicons.dev" alt="Outras Linguagens" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs" alt="Outras Linguagens" />
 </p>
 
 ---
@@ -44,11 +46,15 @@ Olá! Desenvolvo aplicações web robustas e leciono programação, com foco tot
 
 Seja para conversar sobre tecnologia, tirar dúvidas de aulas ou parcerias em projetos, escolha sua rede:
 
-[![LinkedIn](https://shields.io)](SUO_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://shields.io)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=SEU_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
