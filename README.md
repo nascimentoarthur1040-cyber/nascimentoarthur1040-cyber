@@ -28,11 +28,6 @@ Olá! Desenvolvo aplicações web robustas e leciono programação, com foco tot
   <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" />
 </p>
 
-### **Outras Linguagens**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs" alt="Outras Linguagens" />
-</p>
 
 ---
 
