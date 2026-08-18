@@ -1,6 +1,6 @@
 # 👋 Oi Sou o Arthur Nascimento
 
-### **Full Stack JavaScript Developer & Tech Management Professor**
+### **Full Stack JavaScript Developer**
 
 Olá! Desenvolvo aplicações web robustas e leciono programação, com foco total em desenvolvimento de software prático, moderno e eficiente.
 
