@@ -1,96 +1,54 @@
-# 👋 Hi, I'm Leo Gomes
+# 👋 Hi, I'm Arthur Nascimento
 
-**Full Stack JavaScript Developer & Tech Management Professor**
+### **Full Stack JavaScript Developer & Tech Management Professor**
 
-🎓 Systems Analysis & Development (ADS)  
-💻 JavaScript / TypeScript  
-🧑‍🏫 Software Development & Technology Education
-
-I develop web applications and teach programming, focusing on practical and modern software development.
+Olá! Desenvolvo aplicações web robustas e leciono programação, com foco total em desenvolvimento de software prático, moderno e eficiente.
 
 ---
 
-### 🛠️ Tech Stack
+## 🎓 Sobre Mim
 
+- **Formação:** Análise e Desenvolvimento de Sistemas (ADS)
+- **Especialidade:** JavaScript / TypeScript
+- **Atuação:** Desenvolvimento de Software & Educação Tecnológica
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend & Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,prisma,postgres,mysql,mongodb,html,css,python,cs" />
-  <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" />
+  <img src="https://skillicons.dev" alt="Frontend e Backend" />
+</p>
+
+### **Banco de Dados & ORMs**
+<p align="left">
+  <img src="https://skillicons.dev" alt="Databases e Prisma" />
+  <img src="https://cdn.simpleicons.org/typeorm/FE0803" width="48" height="48" alt="TypeORM" style="vertical-align: middle; margin-left: 8px;" />
+</p>
+
+### **Outras Linguagens**
+<p align="left">
+  <img src="https://skillicons.dev" alt="Outras Linguagens" />
 </p>
 
 ---
 
-### 🔗 Connect
+## 🚀 Projetos em Destaque
 
-[![Website](https://img.shields.io/badge/WEBSITE-24292F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leogomesdev.com) [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leogomes_dev) [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vp7ph87XYE) [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@leogomesdev.com) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-gomes-dev)
-
----
-
-### 🚀 Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Tarefas</b><br>
-      <a href="https://board-tarefa.vercel.app/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/boardTarefa">Repo ↗</a>
-    </td>
-    <td align="center">
-      <b>Pneuma</b><br>
-      <a href="https://pneuma.leogomesdev.com/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/frases">Repo ↗</a>
-    </td>
-    <td align="center">
-      <b>Combustível</b><br>
-      <a href="https://combustivel.leogomesdev.com/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/calcGasolinaEtanol">Repo ↗</a>
-    </td>
-    <td align="center">
-      <b>Criptomoedas</b><br>
-      <a href="https://criptomoedas-omega.vercel.app/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/api-criptomoedas">Repo ↗</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Pomodoro</b><br>
-      <a href="https://fluxo.leogomesdev.com/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/chronos">Repo ↗</a>
-    </td>
-    <td align="center">
-      <b>Prime</b><br>
-      <a href="https://prime.leogomesdev.com/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/filmes">Repo ↗</a>
-    </td>
-    <td align="center">
-      <b>Template Restaurante</b><br>
-      <a href="https://restaurante-rho-orcin.vercel.app/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/restaurante-leogom">Repo ↗</a>
-    </td>
-    <td align="center">
-      <b>Gerador de CPF</b><br>
-      <a href="https://gerador-cpf-zeta.vercel.app/">View ↗</a>
-      &nbsp;•&nbsp;
-      <a href="https://github.com/leo-gomes-dev/gerador-cpf">Repo ↗</a>
-    </td>
-  </tr>
-</table>
+*Em breve, meus principais projetos e repositórios acadêmicos estarão listados aqui!*
 
 ---
 
-### ☕ Support
+## 🔗 Vamos nos conectar?
 
-If you find my projects useful, you can support my work:
+Seja para conversar sobre tecnologia, tirar dúvidas de aulas ou parcerias em projetos, escolha sua rede:
 
-[☕ Support my work](https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81)
+[![LinkedIn](https://shields.io)](SUO_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://shields.io)](mailto:SEU_EMAIL_AQUI)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Views&color=0e75b6&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leo-gomes-dev&label=Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
