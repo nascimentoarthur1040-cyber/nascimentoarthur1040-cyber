@@ -39,10 +39,13 @@ Olá! Desenvolvo aplicações web robustas e leciono programação, com foco tot
 
 ## 🔗 Vamos nos conectar?
 
+nascimento.arthur.1040
+   
 Seja para conversar sobre tecnologia, tirar dúvidas de aulas ou parcerias em projetos, escolha sua rede:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimento.arthur.1040
+)
 
 ---
