@@ -46,10 +46,3 @@ Seja para conversar sobre tecnologia, tirar dúvidas de aulas ou parcerias em pr
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=SEU_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
