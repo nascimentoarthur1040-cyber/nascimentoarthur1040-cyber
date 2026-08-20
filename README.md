@@ -43,7 +43,7 @@ nascimento.arthur.1040
    
 Seja para conversar sobre tecnologia, tirar dúvidas de aulas ou parcerias em projetos, escolha sua rede:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-nascimento-3998b642b)
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimento.arthur.1040
 )
