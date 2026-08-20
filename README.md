@@ -2,7 +2,7 @@
 
 ### **Full Stack JavaScript Developer**
 
-Olá! Desenvolvo aplicações web robustas e leciono programação, com foco total em desenvolvimento de software prático, moderno e eficiente.
+🌟 Desenvolvedor Full Stack JavaScript & Instrutor de TecnologiaOlá! Desenvolvo aplicações web robustas e escaláveis, além de atuar na formação de novos talentos em tecnologia. Meu foco é 100% voltado para o desenvolvimento de software prático, moderno e eficiente, alinhado às melhores práticas do mercado.
 
 ---
 
